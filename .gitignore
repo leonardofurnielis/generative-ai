@@ -1,1 +1,5 @@
 **/.ipynb_checkpoints
+
+.DS_Store
+
+rag_langchain_watsonx.ipynb
